@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item
+            android:id="@+id/reStart"
+            android:title="重新游戏"
+            />
+        <item
+            android:id="@+id/pause"
+            android:title="暂停游戏"
+            />
+
+        <item
+            android:id="@+id/Undo"
+            android:title="悔棋"
+            />
+    </group>
+</menu>
